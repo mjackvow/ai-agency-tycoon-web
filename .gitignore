@@ -1,0 +1,11 @@
+node_modules/
+dist/
+Dist/
+.vercel/
+.gradle/
+**/build/
+**/local.properties
+**/assets/www/
+.env*
+*.jks
+*.keystore
